@@ -14,5 +14,5 @@ export default {
   },
   moduleFileExtensions: ['ts', 'tsx', 'js', 'jsx'],
   coverageDirectory: '../../../coverage/libs/plugin/core',
-  testTimeout: 100000
+  testTimeout: 10000
 };
